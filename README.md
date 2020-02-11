@@ -27,15 +27,15 @@ We have used a pre-trained Histogram of Oriented Gradients (HOG) + Linear SVM ob
  
  ## Summary of results
  #### Image 1
- ![Input](/images/ex2.jpeg)
- ![Output](/images/output-img/output-2.PNG)
+ ![Input](/images/ex2.jpeg = 250x250)
+ ![Output](/images/output-img/output-2.PNG = 250x250)
  
  ####Image 2
- ![Input](/images/ex3.jpeg)
- ![Output](/images/output-img/output-3.PNG)
+ ![Input](/images/ex3.jpeg = 250x250)
+ ![Output](/images/output-img/output-3.PNG = 250x250)
  
  
  ## Sources
- [1] http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf
- [2] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909637
- [3] https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
+ - [1] http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf
+ - [2] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909637
+ - [3] https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
