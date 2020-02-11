@@ -27,11 +27,11 @@ We have used a pre-trained Histogram of Oriented Gradients (HOG) + Linear SVM ob
  
  ## Summary of results
  #### Image 1
- ![Input](/images/ex2.jpeg){:height="50%" width="50%"}
+ ![Input](/images/ex2.jpeg)
  ![Output](/images/output-img/output-2.PNG)
  
  ####Image 2
- ![Input](/images/ex3.jpeg){:height="50%" width="50%"}
+ ![Input](/images/ex3.jpeg)
  ![Output](/images/output-img/output-3.PNG)
  
  
