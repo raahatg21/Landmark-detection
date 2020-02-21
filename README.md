@@ -28,8 +28,8 @@ We have used a pre-trained Histogram of Oriented Gradients (HOG) + Linear SVM ob
  ## Summary of results
 input | output
 ----- | ------
-<src="https://github.com/raahatg21/Landmark-detection/blob/master/images/ex2.jpeg" width="600"> | <src="https://github.com/raahatg21/Landmark-detection/blob/master/images/output-img/output-2.PNG" width = 600>
-<src="https://github.com/raahatg21/Landmark-detection/blob/master/images/ex3.jpeg" width="600"> | <src="https://github.com/raahatg21/Landmark-detection/blob/master/images/output-img/output-3.PNG" width = 600>
+<src="https://github.com/raahatg21/Landmark-detection/blob/master/images/ex2.jpeg" width="600"> | <src="https://github.com/raahatg21/Landmark-detection/blob/master/images/output-img/output-2.PNG" width = "600">
+<src="https://github.com/raahatg21/Landmark-detection/blob/master/images/ex3.jpeg" width="600"> | <src="https://github.com/raahatg21/Landmark-detection/blob/master/images/output-img/output-3.PNG" width = "600">
  
  
  ## Sources
